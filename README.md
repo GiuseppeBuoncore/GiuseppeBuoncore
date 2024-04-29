@@ -35,12 +35,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBuoncore&theme=buefy&layout=compact" />
 </a>
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://www.linkedin.com/in/giuseppe-buoncore-33858a27a/"></a>
-</p>
 
 ⭐️ From [GiuseppeBuoncore](https://github.com/GiuseppeBuoncore)
