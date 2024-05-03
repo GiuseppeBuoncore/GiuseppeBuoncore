@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies
-- Student of DevelHope
+- Student of Develhope
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
