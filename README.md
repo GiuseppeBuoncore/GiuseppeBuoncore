@@ -25,12 +25,4 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/GiuseppeBuoncore">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuseppeBuoncore&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBuoncore&theme=buefy&layout=compact" />
-</a>
-
-
 ⭐️ From [GiuseppeBuoncore](https://github.com/GiuseppeBuoncore)
